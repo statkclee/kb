@@ -15,9 +15,22 @@ title: KB데이터시스템 통계패키지 R 고급과정
 ## KB데이터시스템 데이터 언어 R 고급과정
 
 1. [수학의 역사와 금융, 통계, R](http://statkclee.github.io/symbolic-math/01-math-history.html)
-1. 
-1. R 설치
-
+1. [왜 R인가?](http://statkclee.github.io/parallel-r/)
+    1. [두언어 문제](http://statkclee.github.io/data-science/two-language-problem.html)
+    1. [왜 고성능 R인가?](http://statkclee.github.io/parallel-r/why-r-hpc.html)
+    1. [유닉스 철학과 R](http://statkclee.github.io/parallel-r/r-parallel-rscript-unix.html)
+        1. [명령라인 인터페이스 강력함 시연](http://statkclee.github.io/ml/00-toolchain-cmd.html)
+1. [RStudio 빅데이터 전략](http://statkclee.github.io/parallel-r/big-data-strategy.html)
+    1. [Hadleyverse](http://data-science.xwmooc.org/data-handling.html)
+    1. [R 데이터과학 프레임워크](http://data-science.xwmooc.org/rstudio.html)
+1. R 설치 
+    1. [가상컴퓨터 Vagrant 설치](http://statkclee.github.io/parallel-r/spark-hadoop-install.html)
+    1. [R 설치](http://statkclee.github.io/parallel-r/index.html)
+    1. [RStudio 설치](http://statkclee.github.io/parallel-r/index.html)
+    * [R 기반 스파크-하둡 플랫폼](http://statkclee.github.io/parallel-r/spark-hadoop-install.html)
+    * [파이썬 툴체인](http://statkclee.github.io/raspberry-pi/raspberry-pi-programming-science.html)
+1. [데이터 과학](http://statkclee.github.io/ml/ml-modeling-basic.html)
+    * [카드발급 사례](http://statkclee.github.io/ml/ml-credit-greene.html)
 
 
 ### xwMOOC 오픈 교재
