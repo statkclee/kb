@@ -30,7 +30,10 @@ title: KB데이터시스템 통계패키지 R 고급과정
     * [R 기반 스파크-하둡 플랫폼](http://statkclee.github.io/parallel-r/spark-hadoop-install.html)
     * [파이썬 툴체인](http://statkclee.github.io/raspberry-pi/raspberry-pi-programming-science.html)
 1. [데이터 과학](http://statkclee.github.io/ml/ml-modeling-basic.html)
+    * [데이터, 모형, 현업](http://statkclee.github.io/ml/01-problem.html)
     * [카드발급 사례](http://statkclee.github.io/ml/ml-credit-greene.html)
+    * [데이터 제품개발과 사업모형](http://statkclee.github.io/data-science/data-product.html)
+    * [시각화](http://statkclee.github.io/data-science/viz.html)
 
 
 ### xwMOOC 오픈 교재
