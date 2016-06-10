@@ -1,6 +1,6 @@
 ---
 layout: page
-title: KB데이터시스템 통계패키지 R 고급과정
+title: KB데이타시스템 통계패키지 R 고급과정
 ---
 
 
